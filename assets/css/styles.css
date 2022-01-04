@@ -1,0 +1,43 @@
+/* */
+
+body
+{
+  background-color: #dbffab;
+  font-family: sans-serif, monospace;
+  overflow-x: hidden; 
+}
+
+ .main .name .textwrapper {
+   color: darkslategrey;
+   left: 0;
+   line-height: 200px;
+   margin-top: -100px;
+   position: absolute;
+   text-align: center;
+   top: 30%;
+   width: 100%;
+   bottom: 70%;
+   font-size: 2vw;
+ }
+
+
+.main .name .FirstName {
+   display: inline-block;
+   font-size: 8vw;
+   color: darkslategrey;
+   left: 0;
+   line-height: 200px;
+   margin-top: -100px;
+   position: absolute;
+   text-align: center;
+   top: 40%;
+   width: 100%;
+   bottom: 60%;
+ }
+
+.main .name .FirstName .LastName{
+   display: inline-block;
+   color: darkorange;
+}
+
+
